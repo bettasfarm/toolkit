@@ -2184,7 +2184,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/bettafarm",
+                href: "https://t.me/bettayieldfarm",
             },
             // {
             //   label: "Bahasa Indonesia",
