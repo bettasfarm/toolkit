@@ -2166,25 +2166,25 @@ var socials = [
     {
         label: "Github",
         icon: "GithubIcon",
-        href: "https://github.com/martiandefi",
+        href: "https://github.com/bettasfarm",
     },
     {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "https://martianswap.gitbook.io/",
+        href: "https://bettafarm.gitbook.io/",
     },
-    {
-        label: "Medium",
-        icon: "MediumIcon",
-        href: "https://martianswap.medium.com/",
-    },
+    // {
+    //     label: "Medium",
+    //     icon: "MediumIcon",
+    //     href: "https://bettafarm.medium.com/",
+    // },
     {
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
             {
                 label: "English",
-                href: "https://t.me/martianswap",
+                href: "https://t.me/bettafarm",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2226,16 +2226,16 @@ var socials = [
             //   label: "Français",
             //   href: "https://t.me/pancakeswapfr",
             // },
-            {
-                label: "Announcements",
-                href: "https://t.me/martianswapnews",
-            },
+            // {
+            //     label: "Announcements",
+            //     href: "https://t.me/bettafarmnews",
+            // },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MartianSWAP",
+        href: "https://twitter.com/bettafarmbsc",
     },
 ];
 var MENU_HEIGHT = 64;
